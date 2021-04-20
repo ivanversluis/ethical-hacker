@@ -7,7 +7,7 @@
 - https://www.ired.team/
 - https://github.com/bkapsec/fuzzing
 - https://github.com/absolomb/Pentesting
-
+- https://hausec.com/
 
 ## Windows environment
 ### Active Directory
@@ -16,3 +16,6 @@
 - Using Machine Account Passwords During an Engagement - https://www.secarma.com/using-machine-account-passwords-during-an-engagement/
 ### Mimikatz
 - Unofficial Guide to Mimikatz & Command Reference - https://adsecurity.org/?page_id=1821
+
+## Labs
+- Setup up a Pentest homelab - https://hausec.com/2021/03/04/creating-a-red-blue-team-home-lab/
