@@ -1,5 +1,5 @@
 #Ethical Hacker handbook
-- Collection of links to resources that supported me during my Cyber Security journey
+> Collection of links to resources that supported me during my Cyber Security journey
 
 ##Pentest manuals
 - https://book.hacktricks.xyz/
