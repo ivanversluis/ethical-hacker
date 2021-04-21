@@ -17,5 +17,9 @@
 ### Mimikatz
 - Unofficial Guide to Mimikatz & Command Reference - https://adsecurity.org/?page_id=1821
 
+### MSFvenom windows payloads
+- Msfvenom Cheat Sheet - https://widesecurity.net/linux/msfvenom-cheat-sheet/
+
+
 ## Labs
 - Setup up a Pentest homelab - https://hausec.com/2021/03/04/creating-a-red-blue-team-home-lab/
