@@ -19,7 +19,8 @@
 
 ### MSFvenom windows payloads
 - Msfvenom Cheat Sheet - https://widesecurity.net/linux/msfvenom-cheat-sheet/
-
+### Windows Privilege Escalation
+- https://github.com/frizb/Windows-Privilege-Escalation
 
 ## Labs
 - Setup up a Pentest homelab - https://hausec.com/2021/03/04/creating-a-red-blue-team-home-lab/
