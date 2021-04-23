@@ -8,6 +8,7 @@
 - https://github.com/bkapsec/fuzzing
 - https://github.com/absolomb/Pentesting
 - https://hausec.com/
+- Pentesting Bible - https://awesomeopensource.com/project/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 ## Windows environment
 ### Active Directory
@@ -21,6 +22,12 @@
 - Msfvenom Cheat Sheet - https://widesecurity.net/linux/msfvenom-cheat-sheet/
 ### Windows Privilege Escalation
 - https://github.com/frizb/Windows-Privilege-Escalation
+- Awesome Open Source Windows Privilege Escalation - https://awesomeopensource.com/project/frizb/Windows-Privilege-Escalation
+- Pentesting Bible - https://awesomeopensource.com/project/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
 ## Labs
 - Setup up a Pentest homelab - https://hausec.com/2021/03/04/creating-a-red-blue-team-home-lab/
+
+## Cloud environment
+### Azure AD
+- I'm in your cloud, reading everyone's emails - hacking Azure AD via Active Directory - https://www.youtube.com/watch?v=JEIR5oGCwdg
