@@ -13,6 +13,7 @@
 
 ## Blogs
 - https://infinitelogins.com/
+- t13nn3s - https://binsec.nl/
 
 ## Windows environment
 ### Active Directory
