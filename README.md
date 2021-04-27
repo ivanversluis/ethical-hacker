@@ -10,6 +10,10 @@
 - https://hausec.com/
 - Pentesting Bible - https://awesomeopensource.com/project/blaCCkHatHacEEkr/PENTESTING-BIBLE
 
+
+## Blogs
+- https://infinitelogins.com/
+
 ## Windows environment
 ### Active Directory
 - BloodHound: Six Degrees of Domain Admin -  https://bloodhound.readthedocs.io/en/latest/index.html
